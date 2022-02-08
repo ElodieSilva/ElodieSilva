@@ -7,6 +7,7 @@ Bienvenue!!
 </div>
 
 <div>
+  
 
 ![Snake animation](https://github.com/elodiesilva/elodiesilva/blob/output/github-contribution-grid-snake.svg)
 
