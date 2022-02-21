@@ -1,4 +1,4 @@
-Bienvenue!!
+<strong>Bienvenue!!<strong>
 
 <div>
 
