@@ -1,5 +1,5 @@
-## Bienvenu, je suis Elodie Silva!
-
+## Bienvenu, je suis Elodie Silva!Ingénieur en mécanique..👩‍🔧
+## ...Terminant actuellement la maîtrise de IT     
 <div>
   
     
@@ -9,8 +9,6 @@
 </div>
 
 
-## Ingénieur en mécanique..👩‍🔧
-## ...Terminant actuellement la maîtrise de IT                     
 
   
 
