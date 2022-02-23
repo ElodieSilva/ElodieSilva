@@ -1,4 +1,4 @@
-## Bienvenu, je suis Elodie! Ingénieur en mécanique et terminant actuellement la maîtrise de IT!   
+## Bienvenuuu  je suis Elodie! Ingénieur en mécanique et terminant actuellement la maîtrise de IT!   
 
 <div>
   
