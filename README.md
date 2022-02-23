@@ -26,6 +26,6 @@ Ingénieur en mécanique, terminant actuellement la maîtrise de IT!
 
 ![Snake animation](https://github.com/elodiesilva/elodiesilva/blob/output/github-contribution-grid-snake.svg)
   
-                                                                                                      ....merci pour votre visite!!
+                                                                                                    ....merci pour votre visite!!
 
 </div>
